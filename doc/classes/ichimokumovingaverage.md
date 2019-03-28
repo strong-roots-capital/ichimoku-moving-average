@@ -50,7 +50,7 @@ Calculates the Ichimoku Moving Average over a given lookback period, defined as 
 
 *Overrides RingBuffer.__constructor*
 
-*Defined in [ichimoku-moving-average.ts:14](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/ichimoku-moving-average.ts#L14)*
+*Defined in [ichimoku-moving-average.ts:14](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/ichimoku-moving-average.ts#L14)*
 
 Construct an Ichimoku moving average with specified lookback.
 
@@ -74,7 +74,7 @@ ___
 
 *Inherited from RingBuffer._elements*
 
-*Defined in [@types/ringbufferjs/index.d.ts:14](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L14)*
+*Defined in [@types/ringbufferjs/index.d.ts:14](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L14)*
 
 ___
 <a id="_evictedcb"></a>
@@ -85,7 +85,7 @@ ___
 
 *Inherited from RingBuffer._evictedCb*
 
-*Defined in [@types/ringbufferjs/index.d.ts:18](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L18)*
+*Defined in [@types/ringbufferjs/index.d.ts:18](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L18)*
 
 ___
 <a id="_first"></a>
@@ -96,7 +96,7 @@ ___
 
 *Inherited from RingBuffer._first*
 
-*Defined in [@types/ringbufferjs/index.d.ts:15](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L15)*
+*Defined in [@types/ringbufferjs/index.d.ts:15](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L15)*
 
 ___
 <a id="_last"></a>
@@ -107,7 +107,7 @@ ___
 
 *Inherited from RingBuffer._last*
 
-*Defined in [@types/ringbufferjs/index.d.ts:16](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L16)*
+*Defined in [@types/ringbufferjs/index.d.ts:16](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L16)*
 
 ___
 <a id="_size"></a>
@@ -118,7 +118,7 @@ ___
 
 *Inherited from RingBuffer._size*
 
-*Defined in [@types/ringbufferjs/index.d.ts:17](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L17)*
+*Defined in [@types/ringbufferjs/index.d.ts:17](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L17)*
 
 ___
 
@@ -132,7 +132,7 @@ ___
 
 *Inherited from RingBuffer.capacity*
 
-*Defined in [@types/ringbufferjs/index.d.ts:22](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L22)*
+*Defined in [@types/ringbufferjs/index.d.ts:22](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L22)*
 
 **Returns:** `number`
 
@@ -145,7 +145,7 @@ ___
 
 *Inherited from RingBuffer.deq*
 
-*Defined in [@types/ringbufferjs/index.d.ts:27](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L27)*
+*Defined in [@types/ringbufferjs/index.d.ts:27](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L27)*
 
 **Returns:** `number`
 
@@ -158,7 +158,7 @@ ___
 
 *Inherited from RingBuffer.deqN*
 
-*Defined in [@types/ringbufferjs/index.d.ts:28](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L28)*
+*Defined in [@types/ringbufferjs/index.d.ts:28](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L28)*
 
 **Parameters:**
 
@@ -177,7 +177,7 @@ ___
 
 *Inherited from RingBuffer.enq*
 
-*Defined in [@types/ringbufferjs/index.d.ts:29](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L29)*
+*Defined in [@types/ringbufferjs/index.d.ts:29](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L29)*
 
 **Parameters:**
 
@@ -196,7 +196,7 @@ ___
 
 *Inherited from RingBuffer.isEmpty*
 
-*Defined in [@types/ringbufferjs/index.d.ts:23](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L23)*
+*Defined in [@types/ringbufferjs/index.d.ts:23](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L23)*
 
 **Returns:** `boolean`
 
@@ -209,7 +209,7 @@ ___
 
 *Inherited from RingBuffer.isFull*
 
-*Defined in [@types/ringbufferjs/index.d.ts:24](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L24)*
+*Defined in [@types/ringbufferjs/index.d.ts:24](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L24)*
 
 **Returns:** `boolean`
 
@@ -222,7 +222,7 @@ ___
 
 *Inherited from RingBuffer.peek*
 
-*Defined in [@types/ringbufferjs/index.d.ts:25](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L25)*
+*Defined in [@types/ringbufferjs/index.d.ts:25](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L25)*
 
 **Returns:** `number`
 
@@ -235,7 +235,7 @@ ___
 
 *Inherited from RingBuffer.peekN*
 
-*Defined in [@types/ringbufferjs/index.d.ts:26](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L26)*
+*Defined in [@types/ringbufferjs/index.d.ts:26](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L26)*
 
 **Parameters:**
 
@@ -252,7 +252,7 @@ ___
 
 ▸ **push**(close: *`number`*): `void`
 
-*Defined in [ichimoku-moving-average.ts:44](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/ichimoku-moving-average.ts#L44)*
+*Defined in [ichimoku-moving-average.ts:44](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/ichimoku-moving-average.ts#L44)*
 
 Push a value into the current lookback period.
 
@@ -273,7 +273,7 @@ ___
 
 *Inherited from RingBuffer.size*
 
-*Defined in [@types/ringbufferjs/index.d.ts:30](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/@types/ringbufferjs/index.d.ts#L30)*
+*Defined in [@types/ringbufferjs/index.d.ts:30](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/@types/ringbufferjs/index.d.ts#L30)*
 
 **Returns:** `number`
 
@@ -284,7 +284,7 @@ ___
 
 ▸ **value**(): `number`
 
-*Defined in [ichimoku-moving-average.ts:31](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/f21822c/src/ichimoku-moving-average.ts#L31)*
+*Defined in [ichimoku-moving-average.ts:31](https://github.com/strong-roots-capital/ichimoku-moving-average/blob/46052a0/src/ichimoku-moving-average.ts#L31)*
 
 Calculate the Ichimoku moving average over the current lookback period.
 
