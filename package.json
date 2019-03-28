@@ -1,6 +1,6 @@
 {
   "name": "@strong-roots-capital/ichimoku-moving-average",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "Average of high and low over a lookback period",
   "main": "dist/ichimoku-moving-average.js",
   "types": "dist/ichimoku-moving-average.d.ts",
