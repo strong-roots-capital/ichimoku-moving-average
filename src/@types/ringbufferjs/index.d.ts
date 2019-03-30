@@ -1,5 +1,3 @@
-/// <reference types="node" />
-
 // TODO: populate header metadata
 // Type definitions for [LIBRARY NAME]
 // Project: [LIBRARY URL]
